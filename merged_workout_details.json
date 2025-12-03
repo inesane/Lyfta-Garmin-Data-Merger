@@ -1,0 +1,7086 @@
+{
+  "set_0": {
+    "start": "2025-12-03 12:03:53",
+    "end": "2025-12-03 12:05:02.961000",
+    "n_samples": 38,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:03:53",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 14.0,
+        "unknown_136": 120.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:03:54",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 30.0,
+        "unknown_136": 119.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:03:58",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 25.0,
+        "unknown_136": 121.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:01",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 38.0,
+        "unknown_136": 122.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:04",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 51.0,
+        "unknown_136": 123.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:06",
+        "distance": 0.0,
+        "heart_rate": 125.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 52.0,
+        "unknown_136": 125.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:07",
+        "distance": 0.0,
+        "heart_rate": 126.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 52.0,
+        "unknown_136": 126.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:08",
+        "distance": 0.0,
+        "heart_rate": 128.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 52.0,
+        "unknown_136": 128.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:09",
+        "distance": 0.0,
+        "heart_rate": 130.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 55.0,
+        "unknown_136": 130.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:10",
+        "distance": 0.0,
+        "heart_rate": 131.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 58.0,
+        "unknown_136": 131.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:11",
+        "distance": 0.0,
+        "heart_rate": 132.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 55.0,
+        "unknown_136": 132.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:12",
+        "distance": 0.0,
+        "heart_rate": 134.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 52.0,
+        "unknown_136": 134.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:13",
+        "distance": 0.0,
+        "heart_rate": 135.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 51.0,
+        "unknown_136": 135.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:15",
+        "distance": 0.0,
+        "heart_rate": 136.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 50.0,
+        "unknown_136": 136.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:17",
+        "distance": 0.0,
+        "heart_rate": 135.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 36.0,
+        "unknown_136": 135.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:18",
+        "distance": 0.0,
+        "heart_rate": 136.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 22.0,
+        "unknown_136": 136.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:21",
+        "distance": 0.0,
+        "heart_rate": 134.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 35.0,
+        "unknown_136": 134.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:23",
+        "distance": 0.0,
+        "heart_rate": 135.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 42.0,
+        "unknown_136": 135.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:26",
+        "distance": 0.0,
+        "heart_rate": 134.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 35.0,
+        "unknown_136": 134.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:28",
+        "distance": 0.0,
+        "heart_rate": 135.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 33.0,
+        "unknown_136": 135.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:32",
+        "distance": 0.0,
+        "heart_rate": 134.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 47.0,
+        "unknown_136": 134.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:34",
+        "distance": 0.0,
+        "heart_rate": 133.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 51.0,
+        "unknown_136": 133.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:35",
+        "distance": 0.0,
+        "heart_rate": 132.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 50.0,
+        "unknown_136": 132.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:38",
+        "distance": 0.0,
+        "heart_rate": 133.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 61.0,
+        "unknown_136": 133.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:41",
+        "distance": 0.0,
+        "heart_rate": 132.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 78.0,
+        "unknown_136": 132.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:43",
+        "distance": 0.0,
+        "heart_rate": 131.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 86.0,
+        "unknown_136": 131.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:44",
+        "distance": 0.0,
+        "heart_rate": 130.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 85.0,
+        "unknown_136": 130.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:46",
+        "distance": 0.0,
+        "heart_rate": 129.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 86.0,
+        "unknown_136": 129.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:47",
+        "distance": 0.0,
+        "heart_rate": 128.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 86.0,
+        "unknown_136": 128.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:48",
+        "distance": 0.0,
+        "heart_rate": 126.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 84.0,
+        "unknown_136": 126.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:49",
+        "distance": 0.0,
+        "heart_rate": 124.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 79.0,
+        "unknown_136": 124.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:50",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 71.0,
+        "unknown_136": 121.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:51",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 71.0,
+        "unknown_136": 121.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:53",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 76.0,
+        "unknown_136": 120.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:55",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 85.0,
+        "unknown_136": 121.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:56",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 91.0,
+        "unknown_136": 120.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:04:58",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 97.0,
+        "unknown_136": 119.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:01",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 93.0,
+        "unknown_136": 120.0,
+        "unknown_143": 54.0
+      }
+    ]
+  },
+  "set_1": {
+    "start": "2025-12-03 12:05:11",
+    "end": "2025-12-03 12:07:38.706000",
+    "n_samples": 76,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:05:11",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 112.0,
+        "unknown_136": 119.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:12",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 113.0,
+        "unknown_136": 118.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:14",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 105.0,
+        "unknown_136": 119.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:16",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 121.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:17",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 54.0,
+        "unknown_136": 122.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:20",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 61.0,
+        "unknown_136": 121.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:22",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 76.0,
+        "unknown_136": 120.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:23",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 65.0,
+        "unknown_136": 117.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:24",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 51.0,
+        "unknown_136": 115.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:25",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 42.0,
+        "unknown_136": 112.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:26",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 34.0,
+        "unknown_136": 110.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:27",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 36.0,
+        "unknown_136": 109.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:29",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 50.0,
+        "unknown_136": 108.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:32",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 74.0,
+        "unknown_136": 107.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:36",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 74.0,
+        "unknown_136": 107.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:38",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 121.0,
+        "unknown_136": 106.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:40",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 138.0,
+        "unknown_136": 105.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:41",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 146.0,
+        "unknown_136": 106.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:43",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 145.0,
+        "unknown_136": 107.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:44",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 140.0,
+        "unknown_136": 108.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:49",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 132.0,
+        "unknown_136": 107.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:52",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 142.0,
+        "unknown_136": 106.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:56",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 171.0,
+        "unknown_136": 105.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:57",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 167.0,
+        "unknown_136": 106.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:58",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 83.0,
+        "unknown_136": 114.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:05:59",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 19.0,
+        "unknown_136": 119.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:00",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 11.0,
+        "unknown_136": 120.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:04",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 22.0,
+        "unknown_136": 121.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:07",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 30.0,
+        "unknown_136": 120.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:10",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 38.0,
+        "unknown_136": 119.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:12",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 53.0,
+        "unknown_136": 118.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:14",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 66.0,
+        "unknown_136": 117.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:18",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 70.0,
+        "unknown_136": 118.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:21",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 23.0,
+        "unknown_136": 116.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:22",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 13.0,
+        "unknown_136": 115.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:23",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 7.0,
+        "unknown_136": 114.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:26",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 5.0,
+        "unknown_136": 115.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:28",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 6.0,
+        "unknown_136": 116.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:30",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 13.0,
+        "unknown_136": 117.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:34",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 26.0,
+        "unknown_136": 118.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:35",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 32.0,
+        "unknown_136": 117.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:36",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 38.0,
+        "unknown_136": 115.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:37",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 42.0,
+        "unknown_136": 114.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:40",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 52.0,
+        "unknown_136": 113.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:42",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 54.0,
+        "unknown_136": 112.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:43",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 51.0,
+        "unknown_136": 110.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:44",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 47.0,
+        "unknown_136": 109.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:45",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 50.0,
+        "unknown_136": 108.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:46",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 50.0,
+        "unknown_136": 107.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:51",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 63.0,
+        "unknown_136": 108.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:53",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 70.0,
+        "unknown_136": 110.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:54",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 60.0,
+        "unknown_136": 112.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:55",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 42.0,
+        "unknown_136": 115.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:56",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 35.0,
+        "unknown_136": 116.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:57",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 30.0,
+        "unknown_136": 117.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:06:59",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 36.0,
+        "unknown_136": 118.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:01",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 47.0,
+        "unknown_136": 119.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:02",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 51.0,
+        "unknown_136": 120.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:04",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 57.0,
+        "unknown_136": 121.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:07",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 66.0,
+        "unknown_136": 122.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:09",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 75.0,
+        "unknown_136": 123.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:11",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 83.0,
+        "unknown_136": 122.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:13",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 95.0,
+        "unknown_136": 121.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:14",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 101.0,
+        "unknown_136": 120.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:16",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 112.0,
+        "unknown_136": 119.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:17",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 115.0,
+        "unknown_136": 118.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:18",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 117.0,
+        "unknown_136": 117.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:20",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 128.0,
+        "unknown_136": 116.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:22",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 140.0,
+        "unknown_136": 115.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:25",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 149.0,
+        "unknown_136": 114.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:27",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 157.0,
+        "unknown_136": 115.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:30",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 150.0,
+        "unknown_136": 116.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:32",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 154.0,
+        "unknown_136": 115.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:35",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 174.0,
+        "unknown_136": 116.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:36",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 174.0,
+        "unknown_136": 117.0,
+        "unknown_143": 54.0
+      },
+      {
+        "ts": "2025-12-03 12:07:38",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 150.0,
+        "unknown_136": 118.0,
+        "unknown_143": 54.0
+      }
+    ]
+  },
+  "set_2": {
+    "start": "2025-12-03 12:09:09",
+    "end": "2025-12-03 12:10:19.923000",
+    "n_samples": 38,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:09:09",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 2.0,
+        "unknown_136": 111.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:14",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 14.0,
+        "unknown_136": 110.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:15",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 14.0,
+        "unknown_136": 111.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:16",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 10.0,
+        "unknown_136": 112.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:17",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 5.0,
+        "unknown_136": 113.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:19",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 1.0,
+        "unknown_136": 111.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:20",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 1.0,
+        "unknown_136": 110.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:22",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 0.0,
+        "unknown_136": 109.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:24",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 5.0,
+        "unknown_136": 107.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:26",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 6.0,
+        "unknown_136": 108.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:27",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 9.0,
+        "unknown_136": 109.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:28",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 12.0,
+        "unknown_136": 105.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:29",
+        "distance": 0.0,
+        "heart_rate": 103.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 14.0,
+        "unknown_136": 103.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:30",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 20.0,
+        "unknown_136": 102.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:31",
+        "distance": 0.0,
+        "heart_rate": 101.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 18.0,
+        "unknown_136": 101.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:32",
+        "distance": 0.0,
+        "heart_rate": 100.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 16.0,
+        "unknown_136": 100.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:35",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 32.0,
+        "unknown_136": 99.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:36",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 32.0,
+        "unknown_136": 99.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:37",
+        "distance": 0.0,
+        "heart_rate": 98.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 43.0,
+        "unknown_136": 98.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:40",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 44.0,
+        "unknown_136": 99.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:41",
+        "distance": 0.0,
+        "heart_rate": 101.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 47.0,
+        "unknown_136": 101.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:45",
+        "distance": 0.0,
+        "heart_rate": 100.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 21.0,
+        "unknown_136": 100.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:47",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 33.0,
+        "unknown_136": 99.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:49",
+        "distance": 0.0,
+        "heart_rate": 98.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 40.0,
+        "unknown_136": 98.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:51",
+        "distance": 0.0,
+        "heart_rate": 97.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 38.0,
+        "unknown_136": 97.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:52",
+        "distance": 0.0,
+        "heart_rate": 98.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 44.0,
+        "unknown_136": 98.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:55",
+        "distance": 0.0,
+        "heart_rate": 97.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 97.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:58",
+        "distance": 0.0,
+        "heart_rate": 96.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 71.0,
+        "unknown_136": 96.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:09:59",
+        "distance": 0.0,
+        "heart_rate": 95.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 71.0,
+        "unknown_136": 95.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:10:00",
+        "distance": 0.0,
+        "heart_rate": 94.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 78.0,
+        "unknown_136": 94.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:10:02",
+        "distance": 0.0,
+        "heart_rate": 93.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 65.0,
+        "unknown_136": 93.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:10:03",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 29.0,
+        "unknown_136": 118.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:10:04",
+        "distance": 0.0,
+        "heart_rate": 134.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 2.0,
+        "unknown_136": 134.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:10:05",
+        "distance": 0.0,
+        "heart_rate": 134.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 2.0,
+        "unknown_136": 134.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:10:06",
+        "distance": 0.0,
+        "heart_rate": 135.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 1.0,
+        "unknown_136": 135.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:10:07",
+        "distance": 0.0,
+        "heart_rate": 136.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 0.0,
+        "unknown_136": 136.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:10:11",
+        "distance": 0.0,
+        "heart_rate": 137.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 0.0,
+        "unknown_136": 137.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:10:19",
+        "distance": 0.0,
+        "heart_rate": 138.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 5.0,
+        "unknown_136": 138.0,
+        "unknown_143": 53.0
+      }
+    ]
+  },
+  "set_3": {
+    "start": "2025-12-03 12:14:47",
+    "end": "2025-12-03 12:15:38.202000",
+    "n_samples": 34,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:14:47",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 111.0,
+        "unknown_136": 117.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:14:48",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 117.0,
+        "unknown_136": 116.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:14:49",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 120.0,
+        "unknown_136": 117.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:14:52",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 135.0,
+        "unknown_136": 116.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:14:53",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 126.0,
+        "unknown_136": 113.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:14:54",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 118.0,
+        "unknown_136": 112.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:14:55",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 63.0,
+        "unknown_136": 104.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:14:56",
+        "distance": 0.0,
+        "heart_rate": 101.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 49.0,
+        "unknown_136": 101.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:14:57",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 39.0,
+        "unknown_136": 99.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:14:58",
+        "distance": 0.0,
+        "heart_rate": 98.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 38.0,
+        "unknown_136": 98.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:01",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 48.0,
+        "unknown_136": 99.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:03",
+        "distance": 0.0,
+        "heart_rate": 100.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 64.0,
+        "unknown_136": 100.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:06",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 84.0,
+        "unknown_136": 99.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:07",
+        "distance": 0.0,
+        "heart_rate": 98.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 88.0,
+        "unknown_136": 98.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:08",
+        "distance": 0.0,
+        "heart_rate": 96.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 92.0,
+        "unknown_136": 96.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:09",
+        "distance": 0.0,
+        "heart_rate": 95.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 98.0,
+        "unknown_136": 95.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:12",
+        "distance": 0.0,
+        "heart_rate": 93.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 108.0,
+        "unknown_136": 93.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:13",
+        "distance": 0.0,
+        "heart_rate": 91.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 109.0,
+        "unknown_136": 91.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:15",
+        "distance": 0.0,
+        "heart_rate": 90.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 107.0,
+        "unknown_136": 90.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:16",
+        "distance": 0.0,
+        "heart_rate": 93.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 94.0,
+        "unknown_136": 93.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:17",
+        "distance": 0.0,
+        "heart_rate": 96.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 80.0,
+        "unknown_136": 96.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:18",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 99.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:19",
+        "distance": 0.0,
+        "heart_rate": 101.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 54.0,
+        "unknown_136": 101.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:20",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 53.0,
+        "unknown_136": 102.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:21",
+        "distance": 0.0,
+        "heart_rate": 103.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 53.0,
+        "unknown_136": 103.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:23",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 67.0,
+        "unknown_136": 102.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:25",
+        "distance": 0.0,
+        "heart_rate": 101.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 83.0,
+        "unknown_136": 101.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:26",
+        "distance": 0.0,
+        "heart_rate": 100.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 90.0,
+        "unknown_136": 100.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:27",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 91.0,
+        "unknown_136": 99.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:29",
+        "distance": 0.0,
+        "heart_rate": 98.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 87.0,
+        "unknown_136": 98.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:30",
+        "distance": 0.0,
+        "heart_rate": 97.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 85.0,
+        "unknown_136": 97.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:33",
+        "distance": 0.0,
+        "heart_rate": 96.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 108.0,
+        "unknown_136": 96.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:36",
+        "distance": 0.0,
+        "heart_rate": 95.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 132.0,
+        "unknown_136": 95.0,
+        "unknown_143": 53.0
+      },
+      {
+        "ts": "2025-12-03 12:15:38",
+        "distance": 0.0,
+        "heart_rate": 95.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 132.0,
+        "unknown_136": 95.0,
+        "unknown_143": 53.0
+      }
+    ]
+  },
+  "set_4": {
+    "start": "2025-12-03 12:19:55",
+    "end": "2025-12-03 12:20:35.398000",
+    "n_samples": 23,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:19:55",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 35.0,
+        "unknown_136": 123.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:19:58",
+        "distance": 0.0,
+        "heart_rate": 124.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 35.0,
+        "unknown_136": 124.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:03",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 48.0,
+        "unknown_136": 123.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:05",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 56.0,
+        "unknown_136": 122.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:08",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 73.0,
+        "unknown_136": 121.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:09",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 79.0,
+        "unknown_136": 120.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:10",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 82.0,
+        "unknown_136": 119.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:11",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 86.0,
+        "unknown_136": 118.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:14",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 107.0,
+        "unknown_136": 117.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:17",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 133.0,
+        "unknown_136": 116.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:19",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 149.0,
+        "unknown_136": 115.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:20",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 153.0,
+        "unknown_136": 114.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:21",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 152.0,
+        "unknown_136": 113.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:22",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 146.0,
+        "unknown_136": 110.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:23",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 135.0,
+        "unknown_136": 108.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:24",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 131.0,
+        "unknown_136": 106.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:25",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 129.0,
+        "unknown_136": 105.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:26",
+        "distance": 0.0,
+        "heart_rate": 103.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 108.0,
+        "unknown_136": 103.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:27",
+        "distance": 0.0,
+        "heart_rate": 101.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 72.0,
+        "unknown_136": 101.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:28",
+        "distance": 0.0,
+        "heart_rate": 100.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 50.0,
+        "unknown_136": 100.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:30",
+        "distance": 0.0,
+        "heart_rate": 101.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 32.0,
+        "unknown_136": 101.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:32",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 45.0,
+        "unknown_136": 102.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:20:35",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 45.0,
+        "unknown_136": 102.0,
+        "unknown_143": 52.0
+      }
+    ]
+  },
+  "set_5": {
+    "start": "2025-12-03 12:24:14",
+    "end": "2025-12-03 12:26:57.278000",
+    "n_samples": 105,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:24:14",
+        "distance": 0.0,
+        "heart_rate": 103.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 34.0,
+        "unknown_136": 103.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:15",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 45.0,
+        "unknown_136": 102.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:17",
+        "distance": 0.0,
+        "heart_rate": 101.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 52.0,
+        "unknown_136": 101.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:18",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 56.0,
+        "unknown_136": 102.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:20",
+        "distance": 0.0,
+        "heart_rate": 103.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 66.0,
+        "unknown_136": 103.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:21",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 69.0,
+        "unknown_136": 104.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:22",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 69.0,
+        "unknown_136": 105.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:23",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 72.0,
+        "unknown_136": 106.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:25",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 69.0,
+        "unknown_136": 107.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:27",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 44.0,
+        "unknown_136": 108.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:28",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 44.0,
+        "unknown_136": 109.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:29",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 42.0,
+        "unknown_136": 110.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:30",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 46.0,
+        "unknown_136": 111.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:33",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 63.0,
+        "unknown_136": 110.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:35",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 26.0,
+        "unknown_134": null,
+        "unknown_135": 60.0,
+        "unknown_136": 109.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:36",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 47.0,
+        "unknown_136": 108.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:37",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 39.0,
+        "unknown_136": 107.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:39",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 37.0,
+        "unknown_136": 106.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:40",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 39.0,
+        "unknown_136": 105.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:41",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 42.0,
+        "unknown_136": 104.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:43",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 56.0,
+        "unknown_136": 105.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:45",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 66.0,
+        "unknown_136": 107.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:46",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 57.0,
+        "unknown_136": 110.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:47",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 45.0,
+        "unknown_136": 114.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:48",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 34.0,
+        "unknown_136": 118.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:49",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 24.0,
+        "unknown_136": 120.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:50",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 26.0,
+        "unknown_136": 121.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:51",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 31.0,
+        "unknown_136": 122.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:52",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 33.0,
+        "unknown_136": 123.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:53",
+        "distance": 0.0,
+        "heart_rate": 124.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 31.0,
+        "unknown_136": 124.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:54",
+        "distance": 0.0,
+        "heart_rate": 125.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 35.0,
+        "unknown_136": 125.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:56",
+        "distance": 0.0,
+        "heart_rate": 125.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 35.0,
+        "unknown_136": 125.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:57",
+        "distance": 0.0,
+        "heart_rate": 124.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 47.0,
+        "unknown_136": 124.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:24:59",
+        "distance": 0.0,
+        "heart_rate": 125.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 50.0,
+        "unknown_136": 125.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:00",
+        "distance": 0.0,
+        "heart_rate": 126.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 51.0,
+        "unknown_136": 126.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:01",
+        "distance": 0.0,
+        "heart_rate": 127.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 52.0,
+        "unknown_136": 127.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:02",
+        "distance": 0.0,
+        "heart_rate": 128.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 56.0,
+        "unknown_136": 128.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:04",
+        "distance": 0.0,
+        "heart_rate": 129.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 58.0,
+        "unknown_136": 129.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:05",
+        "distance": 0.0,
+        "heart_rate": 130.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 46.0,
+        "unknown_136": 130.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:06",
+        "distance": 0.0,
+        "heart_rate": 131.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 16.0,
+        "unknown_136": 131.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:09",
+        "distance": 0.0,
+        "heart_rate": 130.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 14.0,
+        "unknown_136": 130.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:12",
+        "distance": 0.0,
+        "heart_rate": 129.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 37.0,
+        "unknown_136": 129.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:14",
+        "distance": 0.0,
+        "heart_rate": 128.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 53.0,
+        "unknown_136": 128.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:16",
+        "distance": 0.0,
+        "heart_rate": 127.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 70.0,
+        "unknown_136": 127.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:17",
+        "distance": 0.0,
+        "heart_rate": 126.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 78.0,
+        "unknown_136": 126.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:19",
+        "distance": 0.0,
+        "heart_rate": 125.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 94.0,
+        "unknown_136": 125.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:22",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 100.0,
+        "unknown_136": 123.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:23",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 96.0,
+        "unknown_136": 120.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:24",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 96.0,
+        "unknown_136": 117.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:25",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 98.0,
+        "unknown_136": 115.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:26",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 99.0,
+        "unknown_136": 113.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:27",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 106.0,
+        "unknown_136": 112.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:28",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 112.0,
+        "unknown_136": 111.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:32",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 134.0,
+        "unknown_136": 110.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:34",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 144.0,
+        "unknown_136": 109.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:36",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 151.0,
+        "unknown_136": 108.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:37",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 142.0,
+        "unknown_136": 106.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:39",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 144.0,
+        "unknown_136": 107.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:41",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 145.0,
+        "unknown_136": 108.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:42",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 139.0,
+        "unknown_136": 109.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:45",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 139.0,
+        "unknown_136": 110.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:46",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 142.0,
+        "unknown_136": 111.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:47",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 147.0,
+        "unknown_136": 110.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:49",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 159.0,
+        "unknown_136": 109.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:50",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 164.0,
+        "unknown_136": 108.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:51",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 164.0,
+        "unknown_136": 109.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:52",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 152.0,
+        "unknown_136": 112.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:53",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 150.0,
+        "unknown_136": 113.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:54",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 149.0,
+        "unknown_136": 115.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:55",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 151.0,
+        "unknown_136": 116.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:56",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 157.0,
+        "unknown_136": 117.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:58",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 169.0,
+        "unknown_136": 118.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:25:59",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 175.0,
+        "unknown_136": 119.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:00",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 171.0,
+        "unknown_136": 120.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:02",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 167.0,
+        "unknown_136": 121.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:04",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 153.0,
+        "unknown_136": 120.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:05",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 141.0,
+        "unknown_136": 121.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:06",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 112.0,
+        "unknown_136": 122.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:07",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 77.0,
+        "unknown_136": 123.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:08",
+        "distance": 0.0,
+        "heart_rate": 124.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 71.0,
+        "unknown_136": 124.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:10",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 67.0,
+        "unknown_136": 123.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:11",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 122.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:15",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 69.0,
+        "unknown_136": 121.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:17",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 86.0,
+        "unknown_136": 120.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:19",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 103.0,
+        "unknown_136": 119.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:21",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 115.0,
+        "unknown_136": 120.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:22",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 117.0,
+        "unknown_136": 121.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:23",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 121.0,
+        "unknown_136": 122.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:24",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 119.0,
+        "unknown_136": 123.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:25",
+        "distance": 0.0,
+        "heart_rate": 125.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 114.0,
+        "unknown_136": 125.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:26",
+        "distance": 0.0,
+        "heart_rate": 127.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 108.0,
+        "unknown_136": 127.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:27",
+        "distance": 0.0,
+        "heart_rate": 131.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 92.0,
+        "unknown_136": 131.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:28",
+        "distance": 0.0,
+        "heart_rate": 134.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 75.0,
+        "unknown_136": 134.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:29",
+        "distance": 0.0,
+        "heart_rate": 139.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 50.0,
+        "unknown_136": 139.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:30",
+        "distance": 0.0,
+        "heart_rate": 143.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 25.0,
+        "unknown_136": 143.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:31",
+        "distance": 0.0,
+        "heart_rate": 144.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 22.0,
+        "unknown_136": 144.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:32",
+        "distance": 0.0,
+        "heart_rate": 145.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 13.0,
+        "unknown_136": 145.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:35",
+        "distance": 0.0,
+        "heart_rate": 144.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 21.0,
+        "unknown_136": 144.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:39",
+        "distance": 0.0,
+        "heart_rate": 145.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 36.0,
+        "unknown_136": 145.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:42",
+        "distance": 0.0,
+        "heart_rate": 144.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 50.0,
+        "unknown_136": 144.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:47",
+        "distance": 0.0,
+        "heart_rate": 143.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 92.0,
+        "unknown_136": 143.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:50",
+        "distance": 0.0,
+        "heart_rate": 142.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 118.0,
+        "unknown_136": 142.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:54",
+        "distance": 0.0,
+        "heart_rate": 141.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 153.0,
+        "unknown_136": 141.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:56",
+        "distance": 0.0,
+        "heart_rate": 141.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 153.0,
+        "unknown_136": 141.0,
+        "unknown_143": 52.0
+      },
+      {
+        "ts": "2025-12-03 12:26:57",
+        "distance": 0.0,
+        "heart_rate": 141.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 153.0,
+        "unknown_136": 141.0,
+        "unknown_143": 52.0
+      }
+    ]
+  },
+  "set_6": {
+    "start": "2025-12-03 12:29:50",
+    "end": "2025-12-03 12:32:14.054000",
+    "n_samples": 82,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:29:50",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 10.0,
+        "unknown_136": 117.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:29:54",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 23.0,
+        "unknown_136": 118.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:29:59",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 50.0,
+        "unknown_136": 119.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:03",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 75.0,
+        "unknown_136": 118.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:05",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 86.0,
+        "unknown_136": 117.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:07",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 100.0,
+        "unknown_136": 118.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:08",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 106.0,
+        "unknown_136": 119.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:09",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 112.0,
+        "unknown_136": 120.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:11",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 124.0,
+        "unknown_136": 121.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:12",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 130.0,
+        "unknown_136": 122.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:14",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 141.0,
+        "unknown_136": 123.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:16",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 159.0,
+        "unknown_136": 122.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:18",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 121.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:20",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 120.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:22",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 119.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:25",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 118.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:28",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 120.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:29",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 150.0,
+        "unknown_136": 122.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:30",
+        "distance": 0.0,
+        "heart_rate": 124.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 144.0,
+        "unknown_136": 124.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:32",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 160.0,
+        "unknown_136": 123.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:34",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 165.0,
+        "unknown_136": 122.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:36",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 172.0,
+        "unknown_136": 123.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:37",
+        "distance": 0.0,
+        "heart_rate": 124.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 167.0,
+        "unknown_136": 124.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:38",
+        "distance": 0.0,
+        "heart_rate": 125.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 144.0,
+        "unknown_136": 125.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:39",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 113.0,
+        "unknown_136": 123.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:40",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 96.0,
+        "unknown_136": 122.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:41",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 94.0,
+        "unknown_136": 121.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:42",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 94.0,
+        "unknown_136": 120.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:43",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 94.0,
+        "unknown_136": 119.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:45",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 97.0,
+        "unknown_136": 118.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:47",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 93.0,
+        "unknown_136": 119.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:48",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 93.0,
+        "unknown_136": 120.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:49",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 94.0,
+        "unknown_136": 121.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:51",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 78.0,
+        "unknown_136": 120.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:53",
+        "distance": 0.0,
+        "heart_rate": 124.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 66.0,
+        "unknown_136": 124.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:54",
+        "distance": 0.0,
+        "heart_rate": 134.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 25.0,
+        "unknown_136": 134.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:55",
+        "distance": 0.0,
+        "heart_rate": 139.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 7.0,
+        "unknown_136": 139.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:56",
+        "distance": 0.0,
+        "heart_rate": 139.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 7.0,
+        "unknown_136": 139.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:57",
+        "distance": 0.0,
+        "heart_rate": 138.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 5.0,
+        "unknown_136": 138.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:30:59",
+        "distance": 0.0,
+        "heart_rate": 137.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 7.0,
+        "unknown_136": 137.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:00",
+        "distance": 0.0,
+        "heart_rate": 136.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 10.0,
+        "unknown_136": 136.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:03",
+        "distance": 0.0,
+        "heart_rate": 135.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 33.0,
+        "unknown_136": 135.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:06",
+        "distance": 0.0,
+        "heart_rate": 134.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 40.0,
+        "unknown_136": 134.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:08",
+        "distance": 0.0,
+        "heart_rate": 133.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 43.0,
+        "unknown_136": 133.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:09",
+        "distance": 0.0,
+        "heart_rate": 132.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 48.0,
+        "unknown_136": 132.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:10",
+        "distance": 0.0,
+        "heart_rate": 131.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 52.0,
+        "unknown_136": 131.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:11",
+        "distance": 0.0,
+        "heart_rate": 130.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 54.0,
+        "unknown_136": 130.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:12",
+        "distance": 0.0,
+        "heart_rate": 128.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 54.0,
+        "unknown_136": 128.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:13",
+        "distance": 0.0,
+        "heart_rate": 127.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 55.0,
+        "unknown_136": 127.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:14",
+        "distance": 0.0,
+        "heart_rate": 125.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 43.0,
+        "unknown_136": 125.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:15",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 41.0,
+        "unknown_136": 123.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:16",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 41.0,
+        "unknown_136": 122.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:17",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 39.0,
+        "unknown_136": 121.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:18",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 37.0,
+        "unknown_136": 120.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:21",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 55.0,
+        "unknown_136": 119.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:23",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 68.0,
+        "unknown_136": 120.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:25",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 78.0,
+        "unknown_136": 121.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:26",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 83.0,
+        "unknown_136": 122.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:27",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 85.0,
+        "unknown_136": 123.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:31",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 107.0,
+        "unknown_136": 122.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:32",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 115.0,
+        "unknown_136": 121.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:34",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 132.0,
+        "unknown_136": 120.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:36",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 142.0,
+        "unknown_136": 121.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:37",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 142.0,
+        "unknown_136": 122.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:38",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 142.0,
+        "unknown_136": 123.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:39",
+        "distance": 0.0,
+        "heart_rate": 124.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 139.0,
+        "unknown_136": 124.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:40",
+        "distance": 0.0,
+        "heart_rate": 126.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 130.0,
+        "unknown_136": 126.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:41",
+        "distance": 0.0,
+        "heart_rate": 128.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 114.0,
+        "unknown_136": 128.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:42",
+        "distance": 0.0,
+        "heart_rate": 130.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 100.0,
+        "unknown_136": 130.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:43",
+        "distance": 0.0,
+        "heart_rate": 131.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 97.0,
+        "unknown_136": 131.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:45",
+        "distance": 0.0,
+        "heart_rate": 130.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 110.0,
+        "unknown_136": 130.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:46",
+        "distance": 0.0,
+        "heart_rate": 131.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 114.0,
+        "unknown_136": 131.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:47",
+        "distance": 0.0,
+        "heart_rate": 130.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 120.0,
+        "unknown_136": 130.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:49",
+        "distance": 0.0,
+        "heart_rate": 129.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 133.0,
+        "unknown_136": 129.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:50",
+        "distance": 0.0,
+        "heart_rate": 128.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 138.0,
+        "unknown_136": 128.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:53",
+        "distance": 0.0,
+        "heart_rate": 127.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 152.0,
+        "unknown_136": 127.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:31:54",
+        "distance": 0.0,
+        "heart_rate": 126.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 155.0,
+        "unknown_136": 126.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:32:00",
+        "distance": 0.0,
+        "heart_rate": 125.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 125.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:32:03",
+        "distance": 0.0,
+        "heart_rate": 124.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 124.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:32:04",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 123.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:32:10",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 122.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:32:14",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 121.0,
+        "unknown_143": 50.0
+      }
+    ]
+  },
+  "set_7": {
+    "start": "2025-12-03 12:37:28",
+    "end": "2025-12-03 12:38:38.178000",
+    "n_samples": 46,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:37:28",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 75.0,
+        "unknown_136": 102.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:29",
+        "distance": 0.0,
+        "heart_rate": 103.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 94.0,
+        "unknown_136": 103.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:31",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 104.0,
+        "unknown_136": 104.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:32",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 111.0,
+        "unknown_136": 105.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:36",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 132.0,
+        "unknown_136": 104.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:37",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 134.0,
+        "unknown_136": 105.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:38",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 137.0,
+        "unknown_136": 104.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:42",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 148.0,
+        "unknown_136": 105.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:44",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 151.0,
+        "unknown_136": 106.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:46",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 154.0,
+        "unknown_136": 107.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:47",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 148.0,
+        "unknown_136": 108.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:50",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 113.0,
+        "unknown_136": 107.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:51",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 117.0,
+        "unknown_136": 108.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:52",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 122.0,
+        "unknown_136": 107.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:53",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 124.0,
+        "unknown_136": 106.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:54",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 123.0,
+        "unknown_136": 105.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:56",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 113.0,
+        "unknown_136": 104.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:37:57",
+        "distance": 0.0,
+        "heart_rate": 103.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 114.0,
+        "unknown_136": 103.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:00",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 113.0,
+        "unknown_136": 104.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:03",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 102.0,
+        "unknown_136": 102.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:04",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 87.0,
+        "unknown_136": 99.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:05",
+        "distance": 0.0,
+        "heart_rate": 96.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 69.0,
+        "unknown_136": 96.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:06",
+        "distance": 0.0,
+        "heart_rate": 95.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 61.0,
+        "unknown_136": 95.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:07",
+        "distance": 0.0,
+        "heart_rate": 94.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 61.0,
+        "unknown_136": 94.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:10",
+        "distance": 0.0,
+        "heart_rate": 95.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 63.0,
+        "unknown_136": 95.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:11",
+        "distance": 0.0,
+        "heart_rate": 94.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 65.0,
+        "unknown_136": 94.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:12",
+        "distance": 0.0,
+        "heart_rate": 92.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 61.0,
+        "unknown_136": 92.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:15",
+        "distance": 0.0,
+        "heart_rate": 93.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 70.0,
+        "unknown_136": 93.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:16",
+        "distance": 0.0,
+        "heart_rate": 96.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 71.0,
+        "unknown_136": 96.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:17",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 71.0,
+        "unknown_136": 99.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:18",
+        "distance": 0.0,
+        "heart_rate": 100.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 73.0,
+        "unknown_136": 100.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:19",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 75.0,
+        "unknown_136": 99.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:21",
+        "distance": 0.0,
+        "heart_rate": 98.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 84.0,
+        "unknown_136": 98.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:24",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 99.0,
+        "unknown_136": 99.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:27",
+        "distance": 0.0,
+        "heart_rate": 100.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 115.0,
+        "unknown_136": 100.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:28",
+        "distance": 0.0,
+        "heart_rate": 101.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 120.0,
+        "unknown_136": 101.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:29",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 124.0,
+        "unknown_136": 102.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:30",
+        "distance": 0.0,
+        "heart_rate": 103.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 128.0,
+        "unknown_136": 103.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:31",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 132.0,
+        "unknown_136": 104.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:32",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 134.0,
+        "unknown_136": 105.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:33",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 112.0,
+        "unknown_136": 112.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:34",
+        "distance": 0.0,
+        "heart_rate": 138.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 4.0,
+        "unknown_136": 138.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:35",
+        "distance": 0.0,
+        "heart_rate": 139.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 3.0,
+        "unknown_136": 139.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:36",
+        "distance": 0.0,
+        "heart_rate": 138.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 2.0,
+        "unknown_136": 138.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:37",
+        "distance": 0.0,
+        "heart_rate": 139.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 2.0,
+        "unknown_136": 139.0,
+        "unknown_143": 50.0
+      },
+      {
+        "ts": "2025-12-03 12:38:38",
+        "distance": 0.0,
+        "heart_rate": 139.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 2.0,
+        "unknown_136": 139.0,
+        "unknown_143": 50.0
+      }
+    ]
+  },
+  "set_8": {
+    "start": "2025-12-03 12:43:13",
+    "end": "2025-12-03 12:44:11.162000",
+    "n_samples": 28,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:43:13",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 33.0,
+        "unknown_136": 115.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:14",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 29.0,
+        "unknown_136": 117.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:15",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 30.0,
+        "unknown_136": 118.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:23",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 92.0,
+        "unknown_136": 117.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:26",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 117.0,
+        "unknown_136": 116.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:29",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 143.0,
+        "unknown_136": 115.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:32",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 130.0,
+        "unknown_136": 114.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:35",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 121.0,
+        "unknown_136": 115.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:36",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 121.0,
+        "unknown_136": 115.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:37",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 120.0,
+        "unknown_136": 116.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:39",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 111.0,
+        "unknown_136": 117.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:40",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 110.0,
+        "unknown_136": 118.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:43",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 103.0,
+        "unknown_136": 117.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:44",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 104.0,
+        "unknown_136": 116.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:45",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 102.0,
+        "unknown_136": 117.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:46",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 102.0,
+        "unknown_136": 118.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:47",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 102.0,
+        "unknown_136": 119.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:51",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 124.0,
+        "unknown_136": 120.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:52",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 130.0,
+        "unknown_136": 121.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:43:54",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 140.0,
+        "unknown_136": 122.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:44:01",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 152.0,
+        "unknown_136": 121.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:44:02",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 148.0,
+        "unknown_136": 119.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:44:03",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 139.0,
+        "unknown_136": 116.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:44:04",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 139.0,
+        "unknown_136": 115.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:44:05",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 139.0,
+        "unknown_136": 114.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:44:07",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 139.0,
+        "unknown_136": 113.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:44:09",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 143.0,
+        "unknown_136": 112.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:44:11",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 143.0,
+        "unknown_136": 112.0,
+        "unknown_143": 49.0
+      }
+    ]
+  },
+  "set_9": {
+    "start": "2025-12-03 12:46:25",
+    "end": "2025-12-03 12:47:29.569000",
+    "n_samples": 33,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:46:25",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 81.0,
+        "unknown_136": 104.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:28",
+        "distance": 0.0,
+        "heart_rate": 103.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 64.0,
+        "unknown_136": 103.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:32",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 66.0,
+        "unknown_136": 104.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:33",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 69.0,
+        "unknown_136": 105.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:34",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 70.0,
+        "unknown_136": 106.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:35",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 72.0,
+        "unknown_136": 107.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:36",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 71.0,
+        "unknown_136": 108.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:38",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 50.0,
+        "unknown_136": 109.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:41",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 49.0,
+        "unknown_136": 110.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:43",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 45.0,
+        "unknown_136": 111.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:44",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 41.0,
+        "unknown_136": 112.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:46",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 37.0,
+        "unknown_136": 113.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:48",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 43.0,
+        "unknown_136": 114.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:49",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 47.0,
+        "unknown_136": 115.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:50",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 51.0,
+        "unknown_136": 116.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:53",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 61.0,
+        "unknown_136": 117.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:54",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 63.0,
+        "unknown_136": 118.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:55",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 69.0,
+        "unknown_136": 119.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:56",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 73.0,
+        "unknown_136": 118.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:46:59",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 85.0,
+        "unknown_136": 117.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:01",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 93.0,
+        "unknown_136": 116.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:04",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 109.0,
+        "unknown_136": 115.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:06",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 108.0,
+        "unknown_136": 114.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:08",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 115.0,
+        "unknown_136": 113.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:09",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 119.0,
+        "unknown_136": 112.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:11",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 126.0,
+        "unknown_136": 111.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:12",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 130.0,
+        "unknown_136": 110.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:13",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 130.0,
+        "unknown_136": 109.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:15",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 146.0,
+        "unknown_136": 108.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:17",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 161.0,
+        "unknown_136": 107.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:19",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 168.0,
+        "unknown_136": 106.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:22",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 105.0,
+        "unknown_143": 49.0
+      },
+      {
+        "ts": "2025-12-03 12:47:26",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 104.0,
+        "unknown_143": 49.0
+      }
+    ]
+  },
+  "set_10": {
+    "start": "2025-12-03 12:50:34",
+    "end": "2025-12-03 12:51:21.655000",
+    "n_samples": 19,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:50:34",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 1.0,
+        "unknown_136": 108.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:50:39",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 1.0,
+        "unknown_136": 107.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:50:40",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 1.0,
+        "unknown_136": 108.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:50:44",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 6.0,
+        "unknown_136": 107.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:50:48",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 16.0,
+        "unknown_136": 108.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:50:49",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 22.0,
+        "unknown_136": 109.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:50:50",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 27.0,
+        "unknown_136": 110.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:50:53",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 44.0,
+        "unknown_136": 111.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:50:54",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 28.0,
+        "unknown_134": null,
+        "unknown_135": 49.0,
+        "unknown_136": 112.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:50:56",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 60.0,
+        "unknown_136": 113.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:50:58",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 54.0,
+        "unknown_136": 111.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:50:59",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 43.0,
+        "unknown_136": 108.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:51:00",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 43.0,
+        "unknown_136": 108.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:51:03",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 40.0,
+        "unknown_136": 109.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:51:04",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 43.0,
+        "unknown_136": 110.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:51:05",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 43.0,
+        "unknown_136": 108.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:51:13",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 77.0,
+        "unknown_136": 107.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:51:15",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 92.0,
+        "unknown_136": 106.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:51:21",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 129.0,
+        "unknown_136": 105.0,
+        "unknown_143": 48.0
+      }
+    ]
+  },
+  "set_11": {
+    "start": "2025-12-03 12:53:55",
+    "end": "2025-12-03 12:55:01.060000",
+    "n_samples": 32,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:53:55",
+        "distance": 0.0,
+        "heart_rate": 95.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 23.0,
+        "unknown_136": 95.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:53:56",
+        "distance": 0.0,
+        "heart_rate": 96.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 11.0,
+        "unknown_136": 96.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:53:57",
+        "distance": 0.0,
+        "heart_rate": 97.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 10.0,
+        "unknown_136": 97.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:53:59",
+        "distance": 0.0,
+        "heart_rate": 98.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 20.0,
+        "unknown_136": 98.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:01",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 33.0,
+        "unknown_136": 99.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:03",
+        "distance": 0.0,
+        "heart_rate": 100.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 45.0,
+        "unknown_136": 100.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:05",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 32.0,
+        "unknown_136": 105.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:06",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 18.0,
+        "unknown_136": 109.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:07",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 13.0,
+        "unknown_136": 111.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:10",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 29.0,
+        "unknown_136": 110.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:11",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 28.0,
+        "unknown_136": 109.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:13",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 23.0,
+        "unknown_136": 108.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:15",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 19.0,
+        "unknown_136": 109.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:17",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 29.0,
+        "unknown_136": 110.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:18",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 32.0,
+        "unknown_136": 111.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:24",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 37.0,
+        "unknown_136": 112.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:27",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 48.0,
+        "unknown_136": 113.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:29",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 57.0,
+        "unknown_136": 114.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:34",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 90.0,
+        "unknown_136": 113.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:39",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 92.0,
+        "unknown_136": 115.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:40",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 85.0,
+        "unknown_136": 116.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:41",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 119.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:42",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 56.0,
+        "unknown_136": 120.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:44",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 69.0,
+        "unknown_136": 119.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:46",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 85.0,
+        "unknown_136": 118.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:50",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 113.0,
+        "unknown_136": 117.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:51",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 121.0,
+        "unknown_136": 116.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:55",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 130.0,
+        "unknown_136": 115.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:56",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 130.0,
+        "unknown_136": 115.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:58",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 135.0,
+        "unknown_136": 114.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:54:59",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 136.0,
+        "unknown_136": 113.0,
+        "unknown_143": 48.0
+      },
+      {
+        "ts": "2025-12-03 12:55:01",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 137.0,
+        "unknown_136": 112.0,
+        "unknown_143": 48.0
+      }
+    ]
+  },
+  "set_12": {
+    "start": "2025-12-03 12:59:24",
+    "end": "2025-12-03 13:01:16.065000",
+    "n_samples": 68,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 12:59:24",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 28.0,
+        "unknown_136": 102.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:25",
+        "distance": 0.0,
+        "heart_rate": 103.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 32.0,
+        "unknown_136": 103.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:26",
+        "distance": 0.0,
+        "heart_rate": 101.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 28.0,
+        "unknown_136": 101.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:27",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 25.0,
+        "unknown_136": 99.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:28",
+        "distance": 0.0,
+        "heart_rate": 100.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 22.0,
+        "unknown_136": 100.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:29",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 17.0,
+        "unknown_136": 99.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:30",
+        "distance": 0.0,
+        "heart_rate": 100.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 24.0,
+        "unknown_136": 100.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:32",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 40.0,
+        "unknown_136": 99.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:35",
+        "distance": 0.0,
+        "heart_rate": 100.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 56.0,
+        "unknown_136": 100.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:36",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 29.0,
+        "unknown_136": 107.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:37",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 10.0,
+        "unknown_136": 112.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:38",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 9.0,
+        "unknown_136": 108.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:39",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 10.0,
+        "unknown_136": 111.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:40",
+        "distance": 0.0,
+        "heart_rate": 106.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 11.0,
+        "unknown_136": 106.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:41",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 10.0,
+        "unknown_136": 102.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:42",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 10.0,
+        "unknown_136": 102.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:43",
+        "distance": 0.0,
+        "heart_rate": 101.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 18.0,
+        "unknown_136": 101.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:44",
+        "distance": 0.0,
+        "heart_rate": 99.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 11.0,
+        "unknown_136": 99.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:45",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 15.0,
+        "unknown_136": 102.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:46",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 18.0,
+        "unknown_136": 105.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:47",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 21.0,
+        "unknown_136": 107.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:48",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 27.0,
+        "unknown_136": 108.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:49",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 31.0,
+        "unknown_136": 109.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:50",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 37.0,
+        "unknown_136": 111.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:53",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 58.0,
+        "unknown_136": 110.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:55",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 66.0,
+        "unknown_136": 109.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:58",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 78.0,
+        "unknown_136": 110.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 12:59:59",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 80.0,
+        "unknown_136": 111.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:00",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 74.0,
+        "unknown_136": 112.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:01",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 65.0,
+        "unknown_136": 109.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:03",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 67.0,
+        "unknown_136": 108.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:04",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 39.0,
+        "unknown_136": 104.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:05",
+        "distance": 0.0,
+        "heart_rate": 103.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 32.0,
+        "unknown_136": 103.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:07",
+        "distance": 0.0,
+        "heart_rate": 105.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 29.0,
+        "unknown_136": 105.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:08",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 31.0,
+        "unknown_136": 107.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:09",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 33.0,
+        "unknown_136": 108.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:10",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 38.0,
+        "unknown_136": 109.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:13",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 57.0,
+        "unknown_136": 110.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:15",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 56.0,
+        "unknown_136": 111.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:16",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 59.0,
+        "unknown_136": 112.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:17",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 113.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:18",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 64.0,
+        "unknown_136": 114.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:20",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 67.0,
+        "unknown_136": 115.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:21",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 116.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:22",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 52.0,
+        "unknown_136": 118.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:23",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 38.0,
+        "unknown_136": 119.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:24",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 37.0,
+        "unknown_136": 120.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:26",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 42.0,
+        "unknown_136": 121.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:31",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 61.0,
+        "unknown_136": 122.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:32",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 63.0,
+        "unknown_136": 121.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:35",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 70.0,
+        "unknown_136": 120.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:37",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 78.0,
+        "unknown_136": 119.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:38",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 81.0,
+        "unknown_136": 118.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:39",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 83.0,
+        "unknown_136": 119.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:46",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 106.0,
+        "unknown_136": 118.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:48",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 91.0,
+        "unknown_136": 117.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:52",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 102.0,
+        "unknown_136": 116.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:55",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 127.0,
+        "unknown_136": 115.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:56",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 127.0,
+        "unknown_136": 115.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:00:57",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 144.0,
+        "unknown_136": 114.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:01:01",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 172.0,
+        "unknown_136": 113.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:01:05",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 112.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:01:10",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 176.0,
+        "unknown_136": 113.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:01:11",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 164.0,
+        "unknown_136": 114.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:01:12",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 126.0,
+        "unknown_136": 115.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:01:13",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 112.0,
+        "unknown_136": 116.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:01:15",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 101.0,
+        "unknown_136": 117.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:01:16",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 101.0,
+        "unknown_136": 117.0,
+        "unknown_143": 47.0
+      }
+    ]
+  },
+  "set_13": {
+    "start": "2025-12-03 13:05:39",
+    "end": "2025-12-03 13:07:22.512000",
+    "n_samples": 64,
+    "ts_cols": [
+      "distance",
+      "heart_rate",
+      "temperature",
+      "unknown_134",
+      "unknown_135",
+      "unknown_136",
+      "unknown_143"
+    ],
+    "ts": [
+      {
+        "ts": "2025-12-03 13:05:39",
+        "distance": 0.0,
+        "heart_rate": 102.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 102.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:05:45",
+        "distance": 0.0,
+        "heart_rate": 104.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 94.0,
+        "unknown_136": 104.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:05:46",
+        "distance": 0.0,
+        "heart_rate": 107.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 78.0,
+        "unknown_136": 107.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:05:47",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 45.0,
+        "unknown_136": 112.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:05:48",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 14.0,
+        "unknown_136": 114.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:05:49",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 7.0,
+        "unknown_136": 113.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:05:51",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 4.0,
+        "unknown_136": 112.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:05:52",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 3.0,
+        "unknown_136": 111.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:05:55",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 3.0,
+        "unknown_136": 112.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:05:58",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 5.0,
+        "unknown_136": 111.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:05:59",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 6.0,
+        "unknown_136": 112.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:00",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 11.0,
+        "unknown_136": 111.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:03",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 34.0,
+        "unknown_136": 110.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:07",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 44.0,
+        "unknown_136": 111.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:08",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 41.0,
+        "unknown_136": 112.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:09",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 40.0,
+        "unknown_136": 113.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:11",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 46.0,
+        "unknown_136": 115.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:12",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 41.0,
+        "unknown_136": 119.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:13",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 41.0,
+        "unknown_136": 120.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:14",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 42.0,
+        "unknown_136": 121.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:15",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 46.0,
+        "unknown_136": 122.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:16",
+        "distance": 0.0,
+        "heart_rate": 123.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 49.0,
+        "unknown_136": 123.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:17",
+        "distance": 0.0,
+        "heart_rate": 124.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 51.0,
+        "unknown_136": 124.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:18",
+        "distance": 0.0,
+        "heart_rate": 125.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 52.0,
+        "unknown_136": 125.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:20",
+        "distance": 0.0,
+        "heart_rate": 126.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 58.0,
+        "unknown_136": 126.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:22",
+        "distance": 0.0,
+        "heart_rate": 127.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 127.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:23",
+        "distance": 0.0,
+        "heart_rate": 126.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 68.0,
+        "unknown_136": 126.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:24",
+        "distance": 0.0,
+        "heart_rate": 124.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 73.0,
+        "unknown_136": 124.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:26",
+        "distance": 0.0,
+        "heart_rate": 122.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 80.0,
+        "unknown_136": 122.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:27",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 84.0,
+        "unknown_136": 120.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:28",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 67.0,
+        "unknown_136": 116.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:29",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 54.0,
+        "unknown_136": 112.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:30",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 52.0,
+        "unknown_136": 110.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:32",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 109.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:33",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 68.0,
+        "unknown_136": 110.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:35",
+        "distance": 0.0,
+        "heart_rate": 111.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 76.0,
+        "unknown_136": 111.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:36",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 79.0,
+        "unknown_136": 112.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:37",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 82.0,
+        "unknown_136": 113.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:38",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 83.0,
+        "unknown_136": 114.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:39",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 83.0,
+        "unknown_136": 116.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:40",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 83.0,
+        "unknown_136": 117.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:41",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 85.0,
+        "unknown_136": 118.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:46",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 105.0,
+        "unknown_136": 119.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:47",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 103.0,
+        "unknown_136": 118.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:48",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 77.0,
+        "unknown_136": 117.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:49",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 27.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 116.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:56",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 116.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:06:59",
+        "distance": 0.0,
+        "heart_rate": 117.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 46.0,
+        "unknown_136": 117.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:00",
+        "distance": 0.0,
+        "heart_rate": 118.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 49.0,
+        "unknown_136": 118.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:01",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 49.0,
+        "unknown_136": 120.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:02",
+        "distance": 0.0,
+        "heart_rate": 121.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 52.0,
+        "unknown_136": 121.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:04",
+        "distance": 0.0,
+        "heart_rate": 120.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 62.0,
+        "unknown_136": 120.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:05",
+        "distance": 0.0,
+        "heart_rate": 119.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 67.0,
+        "unknown_136": 119.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:06",
+        "distance": 0.0,
+        "heart_rate": 116.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 63.0,
+        "unknown_136": 116.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:07",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 54.0,
+        "unknown_136": 113.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:08",
+        "distance": 0.0,
+        "heart_rate": 110.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 40.0,
+        "unknown_136": 110.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:09",
+        "distance": 0.0,
+        "heart_rate": 108.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 34.0,
+        "unknown_136": 108.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:12",
+        "distance": 0.0,
+        "heart_rate": 109.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 16.0,
+        "unknown_136": 109.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:13",
+        "distance": 0.0,
+        "heart_rate": 112.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 7.0,
+        "unknown_136": 112.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:15",
+        "distance": 0.0,
+        "heart_rate": 113.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 15.0,
+        "unknown_136": 113.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:16",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 20.0,
+        "unknown_136": 114.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:18",
+        "distance": 0.0,
+        "heart_rate": 115.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 23.0,
+        "unknown_136": 115.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:21",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 42.0,
+        "unknown_136": 114.0,
+        "unknown_143": 47.0
+      },
+      {
+        "ts": "2025-12-03 13:07:22",
+        "distance": 0.0,
+        "heart_rate": 114.0,
+        "temperature": 29.0,
+        "unknown_134": null,
+        "unknown_135": 42.0,
+        "unknown_136": 114.0,
+        "unknown_143": 47.0
+      }
+    ]
+  }
+}
