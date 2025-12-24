@@ -1,4 +1,45 @@
  Title,Date,Duration,Exercise,"Superset id",Weight,Reps,Distance,Time,"Set Type"
+Back,"2025-12-11 12:41:04",01:07:28,Pull-up,,0.000,10,,,NORMAL_SET
+Back,"2025-12-11 12:41:04",01:07:28,Pull-up,,0.000,10,,,NORMAL_SET
+Back,"2025-12-11 12:41:04",01:07:28,"Cable Seated Single Arm Row",,25.000,10,,,NORMAL_SET
+Back,"2025-12-11 12:41:04",01:07:28,"Cable Reverse Grip Pulldown",,30.000,10,,,NORMAL_SET
+Back,"2025-12-11 12:41:04",01:07:28,"Cable Reverse Grip Pulldown",,55.000,10,,,NORMAL_SET
+Back,"2025-12-11 12:41:04",01:07:28,"Cable Reverse Grip Pulldown",,60.000,6,,,NORMAL_SET
+Back,"2025-12-11 12:41:04",01:07:28,"Cable Seated Face Pull (with rope) (male)",,40.000,10,,,NORMAL_SET
+Back,"2025-12-11 12:41:04",01:07:28,"Cable Seated Face Pull (with rope) (male)",,65.000,10,,,NORMAL_SET
+Back,"2025-12-11 12:41:04",01:07:28,"Cable Seated Face Pull (with rope) (male)",,70.000,13,,,NORMAL_SET
+Back,"2025-12-11 12:41:04",01:07:28,"Cable Seated Single Arm Row",,35.000,10,,,NORMAL_SET
+Back,"2025-12-11 12:41:04",01:07:28,"Cable Seated Single Arm Row",,40.000,11,,,NORMAL_SET
+Back,"2025-12-11 12:41:04",01:07:28,"Lever Back Extension ",,0.000,10,,,NORMAL_SET
+Back,"2025-12-11 12:41:04",01:07:28,"Lever Back Extension ",,0.000,10,,,NORMAL_SET
+Chest,"2025-12-08 12:14:15",01:01:23,"Bench Press",,10.000,6,,,NORMAL_SET
+Chest,"2025-12-08 12:14:15",01:01:23,"Bench Press",,20.000,6,,,NORMAL_SET
+Chest,"2025-12-08 12:14:15",01:01:23,"Bench Press",,25.000,6,,,NORMAL_SET
+Chest,"2025-12-08 12:14:15",01:01:23,"Bench Press",,30.000,1,,,NORMAL_SET
+Chest,"2025-12-08 12:14:15",01:01:23,"Dumbbell Seated Shoulder Press",,15.000,10,,,NORMAL_SET
+Chest,"2025-12-08 12:14:15",01:01:23,"Dumbbell Seated Shoulder Press",,22.000,7,,,NORMAL_SET
+Chest,"2025-12-08 12:14:15",01:01:23,"Single Arm Chest Fly",,15.000,10,,,NORMAL_SET
+Chest,"2025-12-08 12:14:15",01:01:23,"Single Arm Chest Fly",,25.000,10,,,NORMAL_SET
+Chest,"2025-12-08 12:14:15",01:01:23,"Lateral Raise",1,10.000,12,,,NORMAL_SET
+Chest,"2025-12-08 12:14:15",01:01:23,"Lateral Raise",1,10.000,10,,,NORMAL_SET
+Chest,"2025-12-08 12:14:15",01:01:23,"Lever Pec Deck Fly",1,40.000,9,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Triceps Pushdown",,35.000,10,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Triceps Pushdown",,65.000,10,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Triceps Pushdown",,70.000,6,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"EZ Barbell Curl",,5.000,10,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"EZ Barbell Curl",,10.000,10,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"EZ Barbell Curl",,10.000,9,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Overhead Triceps Extension",,30.000,10,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Overhead Triceps Extension",,45.000,10,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Overhead Triceps Extension",,45.000,8,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Lever Preacher Curl",,10.000,10,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Lever Preacher Curl",,25.000,11,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Lever Preacher Curl",,25.000,9,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Tricep Double Rope Extensions",2,20.000,10,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Tricep Double Rope Extensions",2,25.000,10,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Tricep Double Rope Extensions",2,30.000,8,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Hammer Curl",2,12.500,8,,,NORMAL_SET
+Arms,"2025-12-06 13:53:01",01:30:11,"Hammer Curl",2,12.500,9,,,NORMAL_SET
 "Evening session","2025-12-03 13:02:41",01:04:53,"Lateral Raise",,10.000,10,,,NORMAL_SET
 "Evening session","2025-12-03 13:02:41",01:04:53,"Lateral Raise",,10.000,10,,,NORMAL_SET
 "Evening session","2025-12-03 13:02:41",01:04:53,"Lever Leg Extension",,45.000,10,,,NORMAL_SET
