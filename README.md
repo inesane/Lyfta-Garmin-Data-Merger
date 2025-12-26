@@ -2,16 +2,17 @@
 
 Merge **Lyfta workout set data** with **Garmin activity heart-rate data** to get **set-level physiological insights**—including per-set HR curves, averages, peaks, and a full workout timeline.
 
-This tool is designed for people who:
-- Track **sets/reps/weights** in **Lyfta**
-- Track **heart rate & activity data** using **Garmin**
-- Want **per-set heart-rate analysis**, not just a single workout blob
+This tool is designed for people who track **sets/reps/weights** in **Lyfta**, track **heart rate & activity data** using **Garmin** and want **per-set heart-rate analysis**.
+
+Set-wise heart rate data can be used to track peak heart rate for each set and analyze how heart rate response changes across successive sets. Faster or higher HR spikes for the same exercise and load can indicate accumulating systemic fatigue or insufficient recovery between sets. By examining heart rate recovery during rest intervals, this data can help determine whether rest periods are adequate and identify the optimal rest duration needed to sustain performance.
+
+Additionally, trends in set-wise heart rate over multiple workouts can be used to assess conditioning and recovery status. Lower heart rate responses for the same workload may indicate improved cardiovascular efficiency, and elevated responses may signal under-recovery or excessive training load.
 
 ---
 
 ## Live Demo (Hosted)
 
-You can use the app directly here (no setup required):
+You can use the app directly here hosted using Streamlit Community Cloud (no setup required):
 
 **https://lyfta-garmin-data-merger.streamlit.app/**
 
@@ -21,7 +22,7 @@ The demo also includes sample data so you can explore the UI without uploading a
 
 ## Features
 
-- Upload **one Lyfta CSV** and **one or more Garmin `.fit` files**
+- Upload **Lyfta CSV** and **one or more Garmin `.fit` files**
 - Automatically:
   - Match Garmin activities to Lyfta workouts **by date**
   - Detect **active sets** from Garmin (ignores rest sets)
@@ -42,8 +43,6 @@ The demo also includes sample data so you can explore the UI without uploading a
 ## Exporting Your Data
 
 ### 🔹 Export from Lyfta (CSV)
-
-You can export your workout data from Lyfta as a CSV:
 
 - In the app:  
   **Profile → Settings → Export Data**
@@ -86,11 +85,11 @@ Steps:
 2. The app selects the **Lyfta workout on the same calendar date**
 3. Lyfta sets are:
    - Kept sequential by default
-   - **Reordered intelligently for supersets** using round-robin execution
+   - **Reordered for supersets** using round-robin
 4. Garmin **active sets** are matched **1-to-1** with Lyfta sets
 5. HR data is sliced per set window and analyzed
 
-This avoids false HR assignment and preserves real execution order.
+**Note:** The number of sets recorded in Lyfta and Garmin for that workout should be the same.
 
 ---
 
@@ -107,11 +106,6 @@ For each set:
 - Load (weight × reps)
 - Avg HR / Max HR
 - Individual HR graph for that set only
-
-This makes it easy to answer questions like:
-- *Which sets spike my HR the most?*
-- *Does HR drop across later sets of the same exercise?*
-- *How do supersets affect cardiovascular load?*
 
 ---
 
