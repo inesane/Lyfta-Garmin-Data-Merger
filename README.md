@@ -29,7 +29,7 @@ The demo also includes sample data so you can explore the UI without uploading a
   - Reorder Lyfta sets correctly when **supersets** are used
 - View:
   - **Full workout HR timeline** with set regions highlighted and labeled
-  - **Per-set HR graphs** (one graph per exercise set)
+  - **Per-set HR graphs**
   - **Per-set metrics**:
     - Exercise name
     - Weight × reps
@@ -82,7 +82,7 @@ Steps:
 ## How the Matching Works
 
 1. **Garmin activity date** is extracted from the `.fit` file
-2. The app selects the **Lyfta workout on the same calendar date**
+2. The app selects the **Lyfta workout on the same calendar date** at the nearest date/time. (If you train hypertrophy multiple times a day idk what to say to you but I will handle timezone conversions etc later.)
 3. Lyfta sets are:
    - Kept sequential by default
    - **Reordered for supersets** using round-robin
@@ -127,6 +127,7 @@ For each set:
 - Strength-specific effort metrics
 - Implement set auto-detect based on heartrate peaks so that you don't need to constantly stop and start new sets on the watch while working out
 - Integrate with the other major workout platforms such as Hevy and Strong and incorporate their export structures
+- Handle date and time differences between Lyfta and Garmin. Lyfta stores start time in CET while Garmin stores the traditional UTC ISO timestamp.
 
 ---
 
