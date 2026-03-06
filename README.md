@@ -148,9 +148,4 @@ Select any exercise that appears across your uploaded workouts. The page shows:
 - Implement set auto-detect based on HR peaks so you don't need to manually start/stop sets on the watch
 - Hevy and other workout app integration
 
----
-
-## License
-
-MIT License — feel free to fork, modify, and build on top of this.
 
