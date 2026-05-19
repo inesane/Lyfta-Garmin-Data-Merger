@@ -10,7 +10,7 @@ Additionally, trends in set-wise heart rate over multiple workouts can be used t
 
 ---
 
-## Live Demo (Hosted)
+## Live App
 
 You can use the app directly here hosted using Streamlit Community Cloud (no setup required):
 
